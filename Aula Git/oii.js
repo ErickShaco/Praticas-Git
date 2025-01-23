@@ -1,0 +1,1 @@
+const maluco = "Louco"
